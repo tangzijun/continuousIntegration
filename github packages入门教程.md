@@ -181,16 +181,6 @@ yarn add "@USERNAME/PACKAGENAME"
 
 
 
-## 常见问题
-
-### github用户名在哪里?
-
-![image-20200508165301996](/Users/tangzijun/Library/Application Support/typora-user-images/image-20200508165301996.png)
-
-
-
-
-
 ## 常见错误
 
 ### 404 Not Found
