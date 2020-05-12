@@ -6,7 +6,7 @@
 
 
 
-[Github packages](https://github.com/features/packages)（包管理器） 是github持续集成生态中的一个环节，打通了团队协作中代码共享的重要一环。github[收购](https://github.blog/2020-04-15-npm-has-joined-github/)npm后，npm依然会承担开源库托管的重任，Github packages则会承担起组织和团队协作中私有库共享的责任。
+[Github packages](https://github.com/features/packages)（包管理器） 是github持续集成生态中的一个环节，打通了团队协作中代码共享的重要一环。github [收购](https://github.blog/2020-04-15-npm-has-joined-github/) npm后，npm依然会承担开源库托管的重任，Github packages则会承担起组织和团队协作中私有库共享的责任。
 
 
 
@@ -176,6 +176,16 @@ yarn add "@USERNAME/PACKAGENAME"
 - [github packages 说明文档](https://help.github.com/en/packages/publishing-and-managing-packages)
 - [npm文档](https://docs.npmjs.com/)
 - [使用npm发布和安装github packages](https://help.github.com/en/packages/using-github-packages-with-your-projects-ecosystem/configuring-npm-for-use-with-github-packages)
+
+
+
+
+
+## 常见问题
+
+### github用户名在哪里?
+
+![image-20200508165301996](/Users/tangzijun/Library/Application Support/typora-user-images/image-20200508165301996.png)
 
 
 
